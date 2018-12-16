@@ -1,0 +1,11 @@
+/Users/vdarmaya/42/test_scop/deps/glew/build/cmake/build/CMakeFiles/list_install_components.dir
+/Users/vdarmaya/42/test_scop/deps/glew/build/cmake/build/CMakeFiles/rebuild_cache.dir
+/Users/vdarmaya/42/test_scop/deps/glew/build/cmake/build/CMakeFiles/install/strip.dir
+/Users/vdarmaya/42/test_scop/deps/glew/build/cmake/build/CMakeFiles/install.dir
+/Users/vdarmaya/42/test_scop/deps/glew/build/cmake/build/CMakeFiles/uninstall.dir
+/Users/vdarmaya/42/test_scop/deps/glew/build/cmake/build/CMakeFiles/install/local.dir
+/Users/vdarmaya/42/test_scop/deps/glew/build/cmake/build/CMakeFiles/visualinfo.dir
+/Users/vdarmaya/42/test_scop/deps/glew/build/cmake/build/CMakeFiles/glewinfo.dir
+/Users/vdarmaya/42/test_scop/deps/glew/build/cmake/build/CMakeFiles/glew_s.dir
+/Users/vdarmaya/42/test_scop/deps/glew/build/cmake/build/CMakeFiles/edit_cache.dir
+/Users/vdarmaya/42/test_scop/deps/glew/build/cmake/build/CMakeFiles/glew.dir

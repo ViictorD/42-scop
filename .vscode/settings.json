@@ -1,0 +1,8 @@
+{
+	"files.associations": {
+		"stat.h": "c",
+		"iostream": "c",
+		"ios": "c",
+		"locale": "c"
+	}
+}

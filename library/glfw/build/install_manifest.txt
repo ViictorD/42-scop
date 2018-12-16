@@ -1,0 +1,8 @@
+/Users/vdarmaya/.brew/include/GLFW/glfw3.h
+/Users/vdarmaya/.brew/include/GLFW/glfw3native.h
+/Users/vdarmaya/.brew/lib/cmake/glfw3/glfw3Config.cmake
+/Users/vdarmaya/.brew/lib/cmake/glfw3/glfw3ConfigVersion.cmake
+/Users/vdarmaya/.brew/lib/cmake/glfw3/glfw3Targets.cmake
+/Users/vdarmaya/.brew/lib/cmake/glfw3/glfw3Targets-noconfig.cmake
+/Users/vdarmaya/.brew/lib/pkgconfig/glfw3.pc
+/Users/vdarmaya/.brew/lib/libglfw3.a
